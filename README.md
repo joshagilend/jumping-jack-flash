@@ -1,5 +1,7 @@
 # Josh Stroud GitHub: github.com/joshstroud
 
+## To run the final SWFs, follow instructions in [this README](https://github.com/joshagilend/jumping-jack-flash/blob/bb9f9688cc5ca398573f11cda78c8e242e21ba3e/production%20SWFs/README%20for%20SWF%20use.md) and download the SWFs in "Production SWFs" in the main repo directory
+
 ### This project was written in 2009-2010
 
 When I was in high school, I was interested in applying some of my AP Physics C knowledge to a game engine. I had experience as a game developer at uWink, a company for video games in restaurants. I had applied and was accepted to their UNPAID internship program as a high school student.
