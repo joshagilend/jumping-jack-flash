@@ -10,7 +10,7 @@ Use Ruffle to run SWFs- You can run in browser with [Ruffle](https://ruffle.rs/d
 
 [Final physics engine v3](https://github.com/joshagilend/jumping-jack-flash/blob/bb9f9688cc5ca398573f11cda78c8e242e21ba3e/production%20SWFs/final-physics-engine-v3.swf) is the most impressive. Use arrow keys to move the circles around. You can add gravity and change acceleration using a "p" key menu.
 
-All grabbed from [newgrounds.com](https://newgrouds.com)2
+All grabbed from [newgrounds.com](https://newgrouds.com)
 
 ### This project was written in 2009-2010
 
